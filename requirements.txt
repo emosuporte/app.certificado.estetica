@@ -1,0 +1,6 @@
+datetime
+textwrap
+reportlab==3.5.68
+streamlit==0.89.0
+
+
